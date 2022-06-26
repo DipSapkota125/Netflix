@@ -1,0 +1,15 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  &::-webkit-scrollbar{
+    display: none;
+  }
+
+}
+a,h2{
+    color: white;
+}
+a{
+  text-decoration: none;
+ 
+}
